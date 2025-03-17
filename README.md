@@ -1,6 +1,8 @@
-# SQL Exercise 
+# SQL Exercise 2
 
 Sample data is given in data.txt file. You should execute sql code in database management system.
+
+SQL PDF: https://drive.google.com/file/d/1V7nzkt2AbQEHGHS8T7tMwSq57Khnegav/view?usp=sharing
 
 ---
 
