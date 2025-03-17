@@ -4,21 +4,19 @@ Sample data is given in data.txt file. You should execute sql code in database m
 
 ---
 
-### 1. Find all customers from New York.
+### 1. Find all employees who are older than 35.
 
-### 2. List all electronics products, ordered by price in descending order.
+### 2. List all employees in department ID 2, ordered by hire date (earliest first).
 
-### 3. Count the total number of customers.
+### 3. Count the total number of employees in the company.
 
-### 4. Find the total revenue (sum of total_price) from all sales.
+### 4. Find the total salary expenses (sum of salary + bonus).
 
-### 5. Find the number of sales made after March 1, 2024.
+### 5. Find the total number of employees in department ID 3.
 
-### 6. Find the most expensive product.
+### 6. Find the employees who have a salary greater than 90,000.
 
-### 7. Find all sales where the quantity is more than 3.
-
-### 8. Find the total number of items sold.
+### 7. Find all employees hired after January 1, 2018 and before January 1, 2021.
 
 ---
 
