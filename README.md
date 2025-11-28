@@ -17,8 +17,8 @@ Sample data is given in data.txt file. You should execute sql code in database m
 
 4. Find the total salary expenses (sum of salary + bonus).
 
-5. Find the total number of employees in department ID 3.
-  
+5. List all employees ordered by age, from youngest to oldest.
+   
 6. Find all employees hired after January 1, 2018 and before January 1, 2021.
 
 7. Find the employees who have a salary greater than 90,000.
